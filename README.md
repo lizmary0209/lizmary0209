@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**lizmary0209/lizmary0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Liz Mary Chardon**
 
 - 🔭 I’m currently working on my Spots Project
 - 🌱 I’m currently learning JavaScript
